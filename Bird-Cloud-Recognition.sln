@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bird-Cloud-Recognition", "Bird-Cloud-Recognition.csproj", "{D376E8EA-DE2A-4DFF-A3F7-CCC067076343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D376E8EA-DE2A-4DFF-A3F7-CCC067076343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D376E8EA-DE2A-4DFF-A3F7-CCC067076343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D376E8EA-DE2A-4DFF-A3F7-CCC067076343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D376E8EA-DE2A-4DFF-A3F7-CCC067076343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0866EC34-528F-4A7A-AB87-10E5867F3C8B}
+	EndGlobalSection
+EndGlobal
